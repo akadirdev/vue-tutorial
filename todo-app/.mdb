@@ -1,0 +1,8 @@
+{
+  "projectName": "todo-app",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "npm",
+  "hash": "af4c86be"
+}
